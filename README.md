@@ -1,5 +1,5 @@
 # Simple_ETL_For_Datawarehouse
-Proyek ini merupakan Final Submission Virtual Internship Experience IDX/Partners - Data Engineer
+# Proyek ini merupakan Final Submission Virtual Internship Experience IDX/Partners - Data Engineer
 
 Challenge
 
@@ -13,7 +13,7 @@ Membuat Store Procedure (SP) untuk menampilkan summary sales order berdasarkan s
 
 Download SQL Server 2022 pada link berikut :
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
-Pilih developer edition > custom
+\n Pilih developer edition > custom
 
 
 
