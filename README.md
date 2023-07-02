@@ -10,7 +10,7 @@ Membuat sebuah Database bernama DWH_Project, serta membuat Tabel Fact dan Dimens
 Membuat Job ETL di aplikasi talend untuk memindahkan data dari Staging ke Data Warehouse. Khusus untuk Tabel DimCustomer, lakukan transformasi data dengan merubah data dari kolom FirstName dan LastName menjadi huruf kapital semua, lalu gabungkan kedua kolom tersebut menjadi satu kolom yang bernama CustomerName
 Membuat Store Procedure (SP) untuk menampilkan summary sales order berdasarkan status pengiriman.
 
-=================================================================================================================================================================
+=====================================================================
 Download SQL Server 2022 pada link berikut :
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
 pilih developer edition > custom
