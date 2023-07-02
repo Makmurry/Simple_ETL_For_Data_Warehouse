@@ -13,7 +13,10 @@ Membuat Store Procedure (SP) untuk menampilkan summary sales order berdasarkan s
 
 Download SQL Server 2022 pada link berikut :
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
-pilih developer edition > custom
+
+Pilih developer edition > custom
+
+
 
 Aplikasi Talend Open Studio dapat di unduh disini :
 https://www.talend.com/lp/open-studio-for-data-integration/?utm_medium=help&utm_source=help_content&_ga=2.97709468.264764823.1678335506-2047510673.1674628780
