@@ -13,7 +13,7 @@ Membuat Store Procedure (SP) untuk menampilkan summary sales order berdasarkan s
 
 Download SQL Server 2022 pada link berikut :
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads 
-\n Pilih developer edition > custom
+ Pilih developer edition > custom
 
 
 
