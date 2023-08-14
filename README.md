@@ -22,6 +22,7 @@ https://www.talend.com/lp/open-studio-for-data-integration/?utm_medium=help&utm_
 
 Buka file PPT berikut untuk detail proses pengerjaan proyek : 
 https://github.com/Makmurry/Simple_ETL_For_Data_Warehouse/blob/main/FinalTask_IDX%20Partners_DE_Makmurry%20Akbar.pptx
+Lalu klik view raw untuk mengunduh file PPT
 
 Atau 
 
