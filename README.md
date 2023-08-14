@@ -20,7 +20,8 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 Aplikasi Talend Open Studio dapat di unduh disini :
 https://www.talend.com/lp/open-studio-for-data-integration/?utm_medium=help&utm_source=help_content&_ga=2.97709468.264764823.1678335506-2047510673.1674628780
 
-Buka file PPT untuk detail proses pengerjaan proyek.
+Buka file PPT berikut untuk detail proses pengerjaan proyek : 
+https://github.com/Makmurry/Simple_ETL_For_Data_Warehouse/blob/main/FinalTask_IDX%20Partners_DE_Makmurry%20Akbar.pptx
 
 Atau 
 
